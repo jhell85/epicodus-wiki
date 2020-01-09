@@ -1,3 +1,20 @@
 span.w {
-  color: blue
+  color:rgb(57, 57, 189)
+}
+
+{
+  color: rgb(131, 216, 173);
+}
+img{
+  float: left;
+  height: auto;
+  width: 150px;
+  margin: 15px;
+
+}
+img.plane{
+  float: right;
+  height:auto;
+  width:150px;
+  margin:5px;
 }
