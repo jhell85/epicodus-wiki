@@ -5,23 +5,30 @@ span.w {
 {
   color: rgb(131, 216, 173);
 }
-img{
+img {
   float: left;
   height: auto;
   width: 150px;
   margin: 15px;
 
 }
-img.plane{
+img.plane {
   float: right;
   height:auto;
   width:150px;
   margin:5px;
-}
-/* .sidebar{
-  width: 5%;
-  float: left;
-  margin: 20px;
-  padding:20px;
+} 
+ul.sidebar {
+  margin: 0;
+  padding: 10px;
+  width: 200px;
+  background-color: #f1f1f1;
+  position: fixed;
   height: 100%;
-} */
+  overflow: auto;
+}
+
+
+
+
+
